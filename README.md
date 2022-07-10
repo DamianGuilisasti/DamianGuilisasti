@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**DamianGuilisasti/DamianGuilisasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Damián, I'm from Argentina and I'm a Full Stack Web & Blockchain Developer. 
 
-Here are some ideas to get you started:
+* Currently working for [Alchemy](https://www.trustalchemy.com) as a Full Stack Developer.
+* I have a [Youtube](https://www.youtube.com/channel/UCtDCJcJ0P9OgSihRJ1lbBIA) (in Spanish) about how to code Smart Contracts with Solidity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Javascript
+* TypeScript
+* Vue.js
+* React.js
+* Node.js
+* Express.js
+* MongoDb 
+* Docker
+* AWS 
+
+## Contact
+
+Find all of my socials and resume on my [website](https://damianguilisasti.com.ar/)
+
