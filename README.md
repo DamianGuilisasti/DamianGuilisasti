@@ -2,7 +2,7 @@
 
 My name is Damián, I'm from Argentina and I'm a Full Stack Web & Blockchain Developer. 
 
-* Currently working for [Alchemy](https://www.trustalchemy.com) as a Full Stack Developer.
+* Currently working for [Tokn1](https://www.tok1n.com) as a Full Stack Developer.
 * I have a [Youtube](https://www.youtube.com/channel/UCtDCJcJ0P9OgSihRJ1lbBIA) (in Spanish) about how to code Smart Contracts with Solidity.
 
 ## Skills
